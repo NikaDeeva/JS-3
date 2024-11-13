@@ -20,3 +20,12 @@ const options = {
         })
     });
     
+    // Додаткове завдання з кнопкою
+    // const btn = document.querySelector('.btn');
+    // btn.addEventListener('click', () => {
+    //         const images = document.querySelectorAll('.image');
+    //         const observer = new IntersectionObserver(onEntry, options);
+    //         images.forEach(image => {
+    //             observer.observe(image);
+    //         })
+    //     });
